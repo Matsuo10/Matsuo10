@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Matsuo10
-- 👀 I’m interested in data and development. Since completing a course on data analytics, I found that I enjoy learning new programming languages. 
-- 🌱 I’m currently taking the Meta Back End Developer course. 
-- 💞️ I’m looking to collaborate on how back end developers take data and transform it into a web format
+- 👋 Hi
 
 
 <!---
